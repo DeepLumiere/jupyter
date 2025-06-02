@@ -40,6 +40,8 @@ IPython, nbgrader, JupyterHub, repo2docker, and Binder are major repos written p
     *  `Notable Issues <https://github.com/jupyterhub/jupyterhub/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22>`__
     *  `Development Installation <https://github.com/jupyterhub/jupyterhub#contributing>`__
     * `Gitter Channel <https://gitter.im/jupyterhub/jupyterhub>`__
+    * `Discourse Channel <https://discourse.jupyter.org/c/jupyterhub/10>`__
+    * `Zulip Channel <https://jupyter.zulipchat.com/#narrow/channel/469744-jupyterhub/topic/>`__
 * `repo2docker <https://github.com/jupyter/repo2docker>`__
     *  `Notable Issues <https://github.com/jupyter/repo2docker/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22>`__
     * `Development Installation <https://github.com/jupyter/repo2docker#installation>`__
@@ -48,6 +50,7 @@ IPython, nbgrader, JupyterHub, repo2docker, and Binder are major repos written p
     * `Notable Issues <https://github.com/jupyterhub/binderhub/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22>`__
     * `Development Installation <https://github.com/jupyterhub/binderhub/blob/master/CONTRIBUTING.md>`__
     * `Gitter Channel <https://gitter.im/jupyterhub/binder>`__
+    * `Discourse Page <https://discourse.jupyter.org/c/binder/12>`__
   
 Documentation
 -------------
@@ -64,14 +67,18 @@ Jupyter Notebook, JupyterLab, and IPyWidgets use JavaScript and TypeScript.
     * `Notable Issues <https://github.com/jupyter/notebook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
     * `Development Installation <https://github.com/jupyter/notebook/blob/master/CONTRIBUTING.md>`__
     * `Gitter Channel <https://gitter.im/jupyter/notebook>`__
+    * `Discourse Page <https://discourse.jupyter.org/c/notebook/31>`__
 * `JupyterLab <https://github.com/jupyterlab/jupyterlab>`__
     * `Notable Issues <https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22>`__
     * `Development Installation <https://github.com/jupyterlab/jupyterlab/blob/master/CONTRIBUTING.md>`__
     * `Gitter Channel <https://gitter.im/jupyterlab/jupyterlab>`__
+    * `Discourse Page <https://discourse.jupyter.org/c/jupyterlab/17>`__
+    * `Zulip Channel <https://jupyter.zulipchat.com/#narrow/channel/469762-jupyterlab/topic/>`__
 * `IPyWidgets <https://github.com/jupyter-widgets/ipywidgets>`__
     * `Notable Issues <https://github.com/jupyter-widgets/ipywidgets/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
     * `Development Installation <https://ipywidgets.readthedocs.io/en/latest/dev_install.html>`__
     * `Gitter Channel <https://gitter.im/jupyter-widgets/Lobby>`__
+    * `Discourse Page <https://discourse.jupyter.org/c/widgets/46>`__
 
 DevOps
 ------
